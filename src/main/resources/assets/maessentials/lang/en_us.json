@@ -84,7 +84,7 @@
   "tpa.maessentials.request.target.accept": "To teleport, type §a%s§r",
   "tpa.maessentials.request.target.deny": "To deny this request, type §c%s§r",
 
-  "tpahere.maessentials.request.target": "Player §c%s§r wants to teleport you to himself",
+  "tpahere.maessentials.request.target": "Player §c%s§r wants to teleport you to themself",
 
 
   "_comment": "Mute",
